@@ -1,0 +1,16 @@
+{
+  "name": "graphql.wtf-graphql-union-types",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "@graphql-tools/schema": "8.3.1",
+    "fastify": "3.24.0",
+    "graphql": "16.0.1",
+    "graphql-helix": "1.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.15"
+  }
+}
